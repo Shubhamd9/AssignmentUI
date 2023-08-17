@@ -1,0 +1,118 @@
+#main{
+    height: 600px;
+    width: 800px;
+    background-color: aqua;
+    border: solid;
+    margin :auto;
+    border-radius: 40px;
+    margin-top: 100px;
+}
+#d-1{
+    height: 70px;
+    background-color: blanchedalmond;
+    border-radius: 40px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border: solid;
+    width: 750px;
+    margin-left: 25px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+}
+#A-1{
+      height: 10px;
+
+}
+#Centerd-1{
+    border: solid;
+    height: 400px;
+    background-color: darksalmon;
+    border-radius: 40px;
+    width: 750px;
+    margin-left: 25px;
+    display: flex;
+}
+#First{
+    width: 350px;
+    height: 350px;
+    background-color: aliceblue;
+    border: solid;
+    border-radius: 40px;
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+#d-7{
+    margin-top: 37px;
+    height: 90px;
+    width: 90px;
+    background-color: salmon;
+    border-radius: 40px;
+    justify-content: space-around;
+    display: flex;
+}
+#d-11{
+    height: 90px;
+    width: 90px;
+    background-color: salmon;
+    border-radius: 40px;
+    justify-content: space-around;
+    display: flex;
+    margin-top: 40px;
+}
+
+#Second{
+    width: 350px;
+    height:350px;
+    background-color: rgb(200, 245, 200);
+    border: solid;
+    border-radius: 40px;
+    /* justify-content: space-around; */
+    margin-top: 25px;
+    margin-left: 5px;
+    /* justify-content: space-between; */
+}
+#Footer{
+    margin-left: 25px;
+    width: 750px;
+    border: solid;
+    height: 70px;
+    margin-top: 14px;
+    background-color: lightpink;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 70px;
+    border-radius: 40px;
+}
+#h-1{
+    margin: auto;
+}
+#h-2{
+    margin: 28px;
+    padding-top: 30px;
+    
+}
+
+#d-12{
+    margin-top: 35px;
+    height: 90px;
+    width: 90px;
+    background-color:aquamarine;
+    border-radius: 40px;
+
+}
+#d-8{
+    margin-top: 39px;
+    height: 90px;
+    width: 90px;
+    background-color:aquamarine;
+    border-radius: 40px;
+    /* align-content: space-between; */
+    /* justify-content: space-around; */
+}
